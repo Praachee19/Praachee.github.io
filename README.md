@@ -1,2 +1,4 @@
 # Praachee.github.io
-Data Analyst | Business Analyst | SQL | Python | Tableau | Machine Learning| Deep Learning
+Data Analytics | AI-Driven Insights | Tableau | Python | SQL | Machine Learning| Deep Learning | Business Intelligence
+💡Passionate about transforming retail and marketing data into actionable strategies.
+📍 Gurgaon, India
