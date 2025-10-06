@@ -3,3 +3,5 @@ Data Analytics | AI-Driven Insights | Tableau | Python | SQL | Machine Learning|
 💡Passionate about transforming retail and marketing data into actionable strategies.
 📍 Gurgaon, India
 🌐 **Connect with Me** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/praacheebhargava)
+[![Tableau Public](https://public.tableau.com/shared/WD3T3RF3S?:display_count=n&:origin=viz_share_link)
+
